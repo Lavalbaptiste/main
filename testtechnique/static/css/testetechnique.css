@@ -1,0 +1,65 @@
+#image {display: inline-block ;
+    padding-top: 50px;
+    margin: auto}
+
+#couleur { text-align: center ;
+    /*background-color: #664d03;*/
+    /*padding :20px*/
+}
+
+#titre_produit{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 75px;
+    margin: auto;
+}
+#bouton_bleu {
+    display:none;
+}
+#bouton_rouge_presser {
+    display:none;
+}
+#bouton_jaune_presser {
+    display:none;
+}
+#bouton_vert_presser {
+    display:none;
+}
+
+#img_red {
+    display :none ;
+}
+#img_green {
+    display :none ;
+}
+#img_yellow {
+    display :none ;
+}
+
+
+
+
+/*pas ok  la suite */
+/*#blue {*/
+/*    filter: ;*/
+/*}*/
+/*#img_blue {*/
+/*    display :inline ;*/
+/*}*/
+/*body{*/
+/*    background-color: #0dcaf0;*/
+/*}*/
+
+/*.btn-check {background-color: #0f5132}*/
+
+/*!*#red { color: #fd5758 ;*!*/
+/*!*    margin :40px 40px 20px ;*!*/
+/*!*   }*!*/
+/*#green { color: #64c88d*/
+/*}*/
+/*#yellow { color: #fde180*/
+/*}*/
+/*#couleur { text-align: center ;*/
+/*background-color: #664d03;*/
+/*}*/
+
